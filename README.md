@@ -1,4 +1,6 @@
 # BankProject
+Scrumaster for this project. 
+
 AP CSA Period 1B's Bank Project.
 
 Agile Board:
