@@ -1,5 +1,5 @@
 # BankProject
-Scrumaster for this project. 
+Scrumaster for this collaborative, class-wide project. 
 
 AP CSA Period 1B's Bank Project.
 
